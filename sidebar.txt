@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[tug:home|Door43 (tug)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-tug|d43-tug repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-tug/archive/master.zip|d43-tug.zip]]
+
+**Recent Changes**
+{{changes>ns = tug}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/tug|Ethnologue data]]
+
